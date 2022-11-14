@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/JiaCheng-code/Assets/tree/main/assets/output-onlinegiftools.gif" width=30% /></a>
+<a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/JiaCheng-code/Assets/blob/main/assets/output-onlinegiftools.gif" width=30% /></a>
 My Name is ZhangJiaCheng . I'm a front end programmer, I like to learn something new in IT world.Software engineering is my basic, from web application development to mobile development. 
 
 ### Github Stats
