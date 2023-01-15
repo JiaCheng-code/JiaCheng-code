@@ -31,7 +31,9 @@ My Name is ZhangJiaCheng . I'm a front end programmer, I like to learn something
 <br/>
 <br/>
 
+<!--
 <img alt="Diaz" src="https://activity-graph.herokuapp.com/graph?username=JiaCheng-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+-->
 
 <br/>
 <br/>
