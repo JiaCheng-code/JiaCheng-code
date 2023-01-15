@@ -9,8 +9,10 @@ My Name is ZhangJiaCheng . I'm a front end programmer, I like to learn something
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JiaCheng-code&count_private=true&show_icons=true&theme=gotham">
 </a>
   <br/>
-    <a href="https://github.com/Hazumiran/github-readme-stats"><img alt="Diaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hazumiran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/JiaCheng-code/github-readme-stats"><img alt="Diaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaCheng-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    
+<!--
+<a href="https://github.com/Hazumiran/github-readme-stats"><img alt="Diaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hazumiran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JiaCheng-code/github-readme-stats"><img alt="Diaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaCheng-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
 
 <p align="left">    
