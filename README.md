@@ -14,7 +14,7 @@ My Name is ZhangJiaCheng . I'm a front end programmer, I like to learn something
 <a href="https://github.com/Hazumiran/github-readme-stats"><img alt="Diaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hazumiran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/JiaCheng-code/github-readme-stats"><img alt="Diaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaCheng-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
-
+<!--
 <p align="left">    
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -26,8 +26,32 @@ My Name is ZhangJiaCheng . I'm a front end programmer, I like to learn something
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>         
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+</p> -->
+#  📚 技术栈
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Egg](https://img.shields.io/badge/-Egg-33333D?style=flat-square&logo=egg)
+![Koa](https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Rollup](https://img.shields.io/badge/-Rollup-F05032?style=flat-square&logo=rollup.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-%232C3A42?style=flat-square&logo=Vite)
+
+![Jest](https://img.shields.io/badge/-Jest-14C513?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-729A1A?style=flat-square&logo=vitest&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br><br>
 <br/>
 <br/>
 
